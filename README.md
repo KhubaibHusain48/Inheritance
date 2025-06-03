@@ -1,4 +1,4 @@
-Here’s a detailed README draft for your **Inheritance** Java project that covers all the classes and functionality you shared:
+
 
 ---
 
